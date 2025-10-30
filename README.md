@@ -11,7 +11,3 @@ Nodejs와 Express를 이용하여 웹 서버를 만들고 직접 호스팅하는
 |:------:|
 | <img src="https://github.com/MiruHeon/Normal-Project/blob/main/193119713.jpeg?raw=true" alt="류용헌" width="150"> |
 | PL |
-
-## 3.프로젝트 로고
-<img src="https://github.com/MiruHeon/chaja-project/blob/main/CHAJA-logo-black.png?raw=true" alt="CHAJA 로고 블랙" width="200"/>  
-<img src="https://github.com/MiruHeon/chaja-project/blob/main/CHAJA-logo-white.png?raw=true" alt="CHAJA 로고 화이트" width="200"/>
